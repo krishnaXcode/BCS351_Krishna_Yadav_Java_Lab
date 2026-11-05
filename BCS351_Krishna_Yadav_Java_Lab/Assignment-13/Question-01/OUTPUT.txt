@@ -1,0 +1,3 @@
+Length: 11
+Position of g: 3
+Upper case: PROGRAMMING
